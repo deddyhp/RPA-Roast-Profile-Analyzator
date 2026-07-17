@@ -1,0 +1,15 @@
+data/*
+!data/.gitkeep
+!data/artisan_raw/
+data/artisan_raw/*
+!data/artisan_raw/.gitkeep
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
