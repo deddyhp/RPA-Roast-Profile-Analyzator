@@ -1,0 +1,18 @@
+# Local RPA data
+data/*
+!data/.gitkeep
+!data/artisan_raw/
+data/artisan_raw/*
+!data/artisan_raw/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
