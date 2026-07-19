@@ -1,0 +1,16 @@
+# Local RPA operational data
+data/*
+!data/.gitkeep
+!data/artisan_raw/
+!data/knowledge_images/
+!data/artisan_raw/.gitkeep
+!data/knowledge_images/.gitkeep
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
